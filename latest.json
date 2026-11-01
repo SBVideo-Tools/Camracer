@@ -1,0 +1,31 @@
+{
+  "version": "1.0.0-beta.5",
+  "date": "01.11.2026",
+  "url": "https://github.com/SBVideo-Tools/Camracer/releases/latest",
+  "notes": {
+    "de": [
+      "NEU: 🏅 Abzeichen pro Show – z. B. Marathon, Blitzschnitt, Start-Ziel-Sieg, Comeback, Liebling der Regie, Ping-Pong-Duo,",
+      "  Geduldsengel, Spätzünder, Metronom, Feuerteufel und eigene Abzeichen für die Regie.",
+      "  Zu sehen in der Siegerehrung, auf den Camop-Handys, auf der Gewinnerurkunde und gezählt in der Serienwertung.",
+      "NEU: Hinweis auf neue Versionen – auf der Startseite und im 🏁-Menü oben in der Menüleiste, mit Patchnotes und Download.",
+      "  Abschaltbar unter ⚙️ › App. Nach einem Update zeigt Cam Racer einmal „Was ist neu“.",
+      "FEUER am Pult gibt es nur noch per ATEM-Makro – die PVW/PGM-Geste ist entfernt.",
+      "Intro: Texte haben mehr Zeit und werden nicht mehr abgeschnitten. Die Startampel wartet nicht mehr auf Kameras,",
+      "  die nur in der Statistik mitlaufen.",
+      "Behoben: Nach dem Löschen einer Show landete man im Renn-Bildschirm. Jetzt geht es zur Startseite bzw. zurück ins Archiv.",
+      "  Nach dem Rennen gibt es oben außerdem die Knöpfe „Siegerehrung“ und „Startseite“."
+    ],
+    "en": [
+      "NEW: 🏅 badges per show – e.g. marathon, flash cut, wire-to-wire, comeback, director's darling, ping-pong duo,",
+      "  patience of a saint, late bloomer, metronome, fire starter and badges for the director.",
+      "  Shown at the award ceremony, on the camop phones, on the winner certificate and counted in the series standings.",
+      "NEW: notice about new versions – on the home screen and in the 🏁 menu bar menu, with patch notes and download.",
+      "  Can be turned off under ⚙️ › App. After an update Cam Racer shows “What’s new” once.",
+      "FIRE on the panel is now only via ATEM macro – the PVW/PGM gesture has been removed.",
+      "Intro: texts get more time and are no longer cut off. The start lights no longer wait for cameras",
+      "  that only count in the stats.",
+      "Fixed: deleting a show left you on the race screen. Now you go home or back to the archive.",
+      "  After the race there are also “Award ceremony” and “Home” buttons at the top."
+    ]
+  }
+}
