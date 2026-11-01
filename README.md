@@ -3,8 +3,6 @@
 **Turns every cut on your ATEM switcher into a little race.**
 Who is on air the longest, who gets taken most often, who wins the show? Cam Racer listens to the switcher and shows it all live as a race, with a commentator, a multiview and a page on every camop's phone.
 
-> **Beta for selected testers.** Free, without warranty. Please only share after checking with Stephan.
-
 ---
 
 ## 🇩🇪 Deutsch
